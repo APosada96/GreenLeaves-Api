@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "K8UqDyP0c4HEHyVJa+eYV8LXJy9YNXn5ARdqs8bSjM0u2s059YXM0vXpXf7UWFX7Gbaw9K0VKmKQte01up9XCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Domain\\GreenLeaves.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PERSONAL\\.nuget\\packages\\mailkit\\3.4.3\\mailkit.3.4.3.nupkg.sha512",
+    "C:\\Users\\PERSONAL\\.nuget\\packages\\mimekit\\3.4.3\\mimekit.3.4.3.nupkg.sha512",
+    "C:\\Users\\PERSONAL\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\PERSONAL\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\PERSONAL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\PERSONAL\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512",
+    "C:\\Users\\PERSONAL\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

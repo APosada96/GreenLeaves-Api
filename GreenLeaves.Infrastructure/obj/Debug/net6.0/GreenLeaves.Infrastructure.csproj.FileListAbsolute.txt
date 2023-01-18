@@ -1,0 +1,17 @@
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\bin\Debug\net6.0\GreenLeaves.Infrastructure.deps.json
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\bin\Debug\net6.0\GreenLeaves.Infrastructure.runtimeconfig.json
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\bin\Debug\net6.0\GreenLeaves.Infrastructure.dll
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\bin\Debug\net6.0\GreenLeaves.Infrastructure.pdb
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\bin\Debug\net6.0\GreenLeaves.Domain.dll
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\bin\Debug\net6.0\GreenLeaves.Domain.pdb
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\obj\Debug\net6.0\GreenLeaves.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\obj\Debug\net6.0\GreenLeaves.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\obj\Debug\net6.0\GreenLeaves.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\obj\Debug\net6.0\GreenLeaves.Infrastructure.AssemblyInfo.cs
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\obj\Debug\net6.0\GreenLeaves.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\obj\Debug\net6.0\GreenLeaves.Infrastructure.csproj.CopyComplete
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\obj\Debug\net6.0\GreenLeaves.Infrastructure.dll
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\obj\Debug\net6.0\refint\GreenLeaves.Infrastructure.dll
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\obj\Debug\net6.0\GreenLeaves.Infrastructure.pdb
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\obj\Debug\net6.0\GreenLeaves.Infrastructure.genruntimeconfig.cache
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Infrastructure\obj\Debug\net6.0\ref\GreenLeaves.Infrastructure.dll

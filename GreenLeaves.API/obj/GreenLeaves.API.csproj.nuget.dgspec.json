@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.API\\GreenLeaves.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.API\\GreenLeaves.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.API\\GreenLeaves.API.csproj",
+        "projectName": "GreenLeaves.API",
+        "projectPath": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.API\\GreenLeaves.API.csproj",
+        "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PERSONAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/XM-Mercado/REGFRO/_packaging/XM-REGFRO/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Domain\\GreenLeaves.Domain.csproj": {
+                "projectPath": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Domain\\GreenLeaves.Domain.csproj"
+              },
+              "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Infrastructure\\GreenLeaves.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Infrastructure\\GreenLeaves.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Domain\\GreenLeaves.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Domain\\GreenLeaves.Domain.csproj",
+        "projectName": "GreenLeaves.Domain",
+        "projectPath": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Domain\\GreenLeaves.Domain.csproj",
+        "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PERSONAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/XM-Mercado/REGFRO/_packaging/XM-REGFRO/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Infrastructure\\GreenLeaves.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Infrastructure\\GreenLeaves.Infrastructure.csproj",
+        "projectName": "GreenLeaves.Infrastructure",
+        "projectPath": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Infrastructure\\GreenLeaves.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PERSONAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/XM-Mercado/REGFRO/_packaging/XM-REGFRO/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Domain\\GreenLeaves.Domain.csproj": {
+                "projectPath": "C:\\Users\\PERSONAL\\Documents\\GreenLeaves\\Backend\\src\\GreenLeaves.Domain\\GreenLeaves.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

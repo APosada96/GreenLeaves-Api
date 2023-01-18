@@ -1,0 +1,12 @@
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\bin\Debug\net6.0\GreenLeaves.Domain.deps.json
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\bin\Debug\net6.0\GreenLeaves.Domain.dll
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\bin\Debug\net6.0\GreenLeaves.Domain.pdb
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\obj\Debug\net6.0\GreenLeaves.Domain.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\obj\Debug\net6.0\GreenLeaves.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\obj\Debug\net6.0\GreenLeaves.Domain.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\obj\Debug\net6.0\GreenLeaves.Domain.AssemblyInfo.cs
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\obj\Debug\net6.0\GreenLeaves.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\obj\Debug\net6.0\GreenLeaves.Domain.dll
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\obj\Debug\net6.0\refint\GreenLeaves.Domain.dll
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\obj\Debug\net6.0\GreenLeaves.Domain.pdb
+C:\Users\PERSONAL\Documents\GreenLeaves\Backend\src\GreenLeaves.Domain\obj\Debug\net6.0\ref\GreenLeaves.Domain.dll
